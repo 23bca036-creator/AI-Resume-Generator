@@ -32,6 +32,6 @@ Users can create an account, enter their personal information, education, skills
 
 The main objective of this project is to reduce the time and effort required to create a professional resume. By using AI-based content suggestions and ATS analysis, the application helps users customize their resumes according to different job requirements.
 
-### 📚 Learning Outcomes
+###  Learning Outcomes
 
 Through this project, I gained practical experience in **full-stack web development, REST API development, database management, AI API integration, JWT authentication, responsive UI development, CRUD operations, debugging, and Git/GitHub version control**.
